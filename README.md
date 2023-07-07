@@ -1,6 +1,8 @@
 # simulink-attractors-examples
 Nonlinear systems with attractors implemented in Simulink&reg;
 
+[![View simulink-attractors-examples on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/7939-simulink-attractors-examples)
+
 This is a collection of Simulink blocks implementing simple nonlinear dynamical systems that have attractors in their state space.
 A general 3D Simulink scope (coded in the s-functions sfun3d.m) is used to display (in 3D) the evolution of the system during the simulation.
 
